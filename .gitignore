@@ -1,0 +1,14 @@
+# Ignorer environnement virtuel
+.venv/
+venv/
+
+# Fichiers Python compilés
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Fichiers temporaires
+.DS_Store
+*.log
